@@ -1,5 +1,3 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
 # Содержание
 1. [Пороговая обработка и линейное контрастирование изображений](#lab1) <br>
 1.1. [Ход работы](#lab1_2) <br>
